@@ -12,11 +12,11 @@ A production-style backend service for a Social Media Platform, implementing cor
 This project is built with **Node.js, Express, TypeScript, TypeORM, and SQLite**, using migration-based schema design and clean backend architecture principles.
 
 ---
-🎥 Backend Assignment Walkthrough (CLI + Browser Demo)
+## 🎥 Backend Assignment Walkthrough (CLI + Browser Demo)
 
 Watch the backend system in action demonstrating API endpoints, CLI testing, and browser requests.
 
-👉 https://loom.com/share/YOUR_VIDEO_ID
+▶️ [Watch the Demo Video](https://drive.google.com/file/d/10VOQLNHEuazcdmKOp4NOrcB1K7DrgAfS/view?usp=drive_link)
 
 ## ✨ Key Features
 
